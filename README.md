@@ -3,9 +3,6 @@
 <div align="center">  
   <img width="49%" height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoRSantos&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo github stats"/> 
 </div>
-<div align="center">  
-  <img width="49%" height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoRSantos&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo github stats"/> 
-</div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
