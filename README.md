@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35¢er=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João;I'm+18+years+old;I'm+from+Brazil;+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoRSantos" alt="Eduardo github stats"/> 
+  <img width="49%" height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoHneri&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="EduardoRSantos github stats"/> 
 </div>
 
 <div  align="center"> 
@@ -36,4 +36,3 @@
   
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
-
