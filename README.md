@@ -1,26 +1,9 @@
-### Hi there 👋
-
-<!--
-**EduardoRSantos/EduardoRSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120§ion=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35¢er=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João;I'm+18+years+old;I'm+from+Brazil;+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoHneri&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="João github stats"/> 
+  <img width="49%" height="195px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoRSantos" alt="Eduardo github stats"/> 
 </div>
 
 <div  align="center"> 
