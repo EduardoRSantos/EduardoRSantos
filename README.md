@@ -26,7 +26,7 @@
 </div>
   
   <div align = "center">
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoRSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRSantos)](https://github.com/anuraghazra/github-readme-stats)  </div>
   
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
