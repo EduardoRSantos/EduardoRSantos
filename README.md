@@ -26,7 +26,7 @@
 </div>
   
   <div align = "center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?EduardoRSantos=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameEduardoRSantos=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   
 <!--- Out --->
