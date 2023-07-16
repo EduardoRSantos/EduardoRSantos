@@ -10,7 +10,7 @@
     <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
     <img align="center" height="30" width="40" alt="spring-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
     <img align="center" height="30" width="40" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-    <img align="center" height="30" width="40" alt="mongo-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img align="center" height="30" width="40" alt="mongo-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
    </div>
     
 ##
