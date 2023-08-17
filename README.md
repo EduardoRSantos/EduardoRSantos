@@ -22,7 +22,7 @@
  
 </div>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRSantos&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRSantos&layout=compact&hide=html,css,scss,less,hack)
   
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
